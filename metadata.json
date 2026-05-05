@@ -1,0 +1,5 @@
+{
+  "name": "Sara Home IoT Manager",
+  "description": "An IoT Device Manager to monitor and control home devices, featuring Sara Agent for conversational control.",
+  "requestFramePermissions": []
+}
